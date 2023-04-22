@@ -32,11 +32,7 @@ Run the following command
   yarn 
   yarn run dev
 ```
-## Demo
 
-
-
-[![Watch the video]](https://drive.google.com/file/d/1pZuEjGd0qoglL1_4c3nL1iSMHnqfll5h/view)
 ## Some Screen Shot
 
 ![image](https://github.com/vishwajeetvishwakarma/task_application/blob/master/images/Web%20capture_22-4-2023_13954_127.0.0.1.jpeg?raw=true)
